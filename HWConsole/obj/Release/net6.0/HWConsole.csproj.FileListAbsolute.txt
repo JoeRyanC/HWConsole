@@ -1,0 +1,15 @@
+C:\Users\jryan\source\repos\HWConsole\HWConsole\bin\Release\net6.0\HWConsole.exe
+C:\Users\jryan\source\repos\HWConsole\HWConsole\bin\Release\net6.0\HWConsole.deps.json
+C:\Users\jryan\source\repos\HWConsole\HWConsole\bin\Release\net6.0\HWConsole.runtimeconfig.json
+C:\Users\jryan\source\repos\HWConsole\HWConsole\bin\Release\net6.0\HWConsole.dll
+C:\Users\jryan\source\repos\HWConsole\HWConsole\bin\Release\net6.0\HWConsole.pdb
+C:\Users\jryan\source\repos\HWConsole\HWConsole\obj\Release\net6.0\HWConsole.csproj.AssemblyReference.cache
+C:\Users\jryan\source\repos\HWConsole\HWConsole\obj\Release\net6.0\HWConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jryan\source\repos\HWConsole\HWConsole\obj\Release\net6.0\HWConsole.AssemblyInfoInputs.cache
+C:\Users\jryan\source\repos\HWConsole\HWConsole\obj\Release\net6.0\HWConsole.AssemblyInfo.cs
+C:\Users\jryan\source\repos\HWConsole\HWConsole\obj\Release\net6.0\HWConsole.csproj.CoreCompileInputs.cache
+C:\Users\jryan\source\repos\HWConsole\HWConsole\obj\Release\net6.0\HWConsole.dll
+C:\Users\jryan\source\repos\HWConsole\HWConsole\obj\Release\net6.0\refint\HWConsole.dll
+C:\Users\jryan\source\repos\HWConsole\HWConsole\obj\Release\net6.0\HWConsole.pdb
+C:\Users\jryan\source\repos\HWConsole\HWConsole\obj\Release\net6.0\HWConsole.genruntimeconfig.cache
+C:\Users\jryan\source\repos\HWConsole\HWConsole\obj\Release\net6.0\ref\HWConsole.dll

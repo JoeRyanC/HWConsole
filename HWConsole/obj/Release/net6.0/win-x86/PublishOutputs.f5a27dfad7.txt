@@ -1,0 +1,2 @@
+C:\Users\jryan\source\repos\HWConsole\HWConsole\bin\Release\net6.0\publish\HWConsole.pdb
+C:\Users\jryan\source\repos\HWConsole\HWConsole\bin\Release\net6.0\publish\HWConsole.exe
